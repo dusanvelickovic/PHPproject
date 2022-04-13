@@ -1,7 +1,8 @@
 # PHP CMS Project
-Full working blog that allows you to create, read, comment, like, update, delete news. 
+Full working blog that allows you to create, read, comment, like, update, delete news created with, PHP, MySQL, JQuery, Bootstrap
 </br>You can create new account, log in and make changes.
 </br>If given admin title, you get access to a full working CMS that allows you to make changes on a website and create or delete users.
+### Mysql database is included in main repo
 </br>Below you can see screenshots:
 ![1](https://user-images.githubusercontent.com/73674795/163180290-02a190a7-726b-44e4-9e1a-e11ff8019e23.PNG)
 ![2](https://user-images.githubusercontent.com/73674795/163180288-eea5e20b-ea6b-4d1d-8496-7a285d961bc0.PNG)
